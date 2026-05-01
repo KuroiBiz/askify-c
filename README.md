@@ -19,6 +19,8 @@ Designed to demonstrate clean fundamentals of C programming with safe input hand
 
 ![Demo](assets/image.png)
 
+> **Note:** This demo may be outdated if not updated by the maintainer.
+
 ---
 
 ## ⚙️ Features
