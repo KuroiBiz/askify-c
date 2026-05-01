@@ -15,6 +15,12 @@ Designed to demonstrate clean fundamentals of C programming with safe input hand
 
 ---
 
+## Demo
+
+![Demo](assets/image.png)
+
+---
+
 ## ⚙️ Features
 
 - Interactive CLI-based questions
